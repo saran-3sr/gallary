@@ -6,15 +6,11 @@ function Progressbar({file,setfile})
 {
     const {progress,url,error}=Userstorage(file);
     console.log(progress,url);
-    useEffect(()=>{
-        if(url){
-            setfile(null);
+    useEffect(() => {
+        if (url) {
+          setfile(null);
         }
-        if(error)
-        {
-            alert(error);
-        }
-    },[url])
+      }, [url, setfile]);
     return(
         <div className="progress-bar" style={{width:{progress}}}>
         </div>
