@@ -19,12 +19,14 @@ const eventhandler=(e)=>{
         setError("Please upload valid image format")
     }  
 }
+const Clickhandler=()=>{
+    const s=document.getElementById("file").click();
+}
     return(
     <div className="form">
         <label htmlFor="form">
-        <form action="">
-            <input className='custom-file-input' type="file" onChange={eventhandler}/>
-        </form>
+            <input className='custom-file-input'type="file" id="file" onChange={eventhandler}/>
+            <span onClick={Clickhandler}>+</span>
         </label>
         <div className="output">
             { error && <div className="error">{error}</div> }
