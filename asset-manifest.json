@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/gallary/static/css/main.c2b9319c.chunk.css",
-    "main.js": "/gallary/static/js/main.282ecee4.chunk.js",
-    "main.js.map": "/gallary/static/js/main.282ecee4.chunk.js.map",
+    "main.js": "/gallary/static/js/main.af9ff350.chunk.js",
+    "main.js.map": "/gallary/static/js/main.af9ff350.chunk.js.map",
     "runtime~main.js": "/gallary/static/js/runtime~main.cd2fc00c.js",
     "runtime~main.js.map": "/gallary/static/js/runtime~main.cd2fc00c.js.map",
     "static/js/2.ec16f0a6.chunk.js": "/gallary/static/js/2.ec16f0a6.chunk.js",
     "static/js/2.ec16f0a6.chunk.js.map": "/gallary/static/js/2.ec16f0a6.chunk.js.map",
     "index.html": "/gallary/index.html",
-    "precache-manifest.a0f945023c3de6b3db46121b85e4d50c.js": "/gallary/precache-manifest.a0f945023c3de6b3db46121b85e4d50c.js",
+    "precache-manifest.4dbe13cc147b469da8e27ad069d43a52.js": "/gallary/precache-manifest.4dbe13cc147b469da8e27ad069d43a52.js",
     "service-worker.js": "/gallary/service-worker.js",
     "static/css/main.c2b9319c.chunk.css.map": "/gallary/static/css/main.c2b9319c.chunk.css.map"
   }
