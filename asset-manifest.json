@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/gallary/static/css/main.41a80360.chunk.css",
+    "main.css": "/gallary/static/css/main.c2b9319c.chunk.css",
     "main.js": "/gallary/static/js/main.282ecee4.chunk.js",
     "main.js.map": "/gallary/static/js/main.282ecee4.chunk.js.map",
     "runtime~main.js": "/gallary/static/js/runtime~main.cd2fc00c.js",
@@ -8,8 +8,8 @@
     "static/js/2.ec16f0a6.chunk.js": "/gallary/static/js/2.ec16f0a6.chunk.js",
     "static/js/2.ec16f0a6.chunk.js.map": "/gallary/static/js/2.ec16f0a6.chunk.js.map",
     "index.html": "/gallary/index.html",
-    "precache-manifest.74ea043eee9365b278d496828d58eef7.js": "/gallary/precache-manifest.74ea043eee9365b278d496828d58eef7.js",
+    "precache-manifest.a987d367baf2560df66415072f1f12e3.js": "/gallary/precache-manifest.a987d367baf2560df66415072f1f12e3.js",
     "service-worker.js": "/gallary/service-worker.js",
-    "static/css/main.41a80360.chunk.css.map": "/gallary/static/css/main.41a80360.chunk.css.map"
+    "static/css/main.c2b9319c.chunk.css.map": "/gallary/static/css/main.c2b9319c.chunk.css.map"
   }
 }
