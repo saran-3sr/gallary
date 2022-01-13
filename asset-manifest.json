@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/gallary/static/css/main.41a80360.chunk.css",
+    "main.js": "/gallary/static/js/main.282ecee4.chunk.js",
+    "main.js.map": "/gallary/static/js/main.282ecee4.chunk.js.map",
+    "runtime~main.js": "/gallary/static/js/runtime~main.cd2fc00c.js",
+    "runtime~main.js.map": "/gallary/static/js/runtime~main.cd2fc00c.js.map",
+    "static/js/2.ec16f0a6.chunk.js": "/gallary/static/js/2.ec16f0a6.chunk.js",
+    "static/js/2.ec16f0a6.chunk.js.map": "/gallary/static/js/2.ec16f0a6.chunk.js.map",
+    "index.html": "/gallary/index.html",
+    "precache-manifest.74ea043eee9365b278d496828d58eef7.js": "/gallary/precache-manifest.74ea043eee9365b278d496828d58eef7.js",
+    "service-worker.js": "/gallary/service-worker.js",
+    "static/css/main.41a80360.chunk.css.map": "/gallary/static/css/main.41a80360.chunk.css.map"
+  }
+}
